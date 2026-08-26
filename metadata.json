@@ -1,0 +1,7 @@
+{
+  "name": "Inverse Volatility Momentum Screener",
+  "description": "Quantitative screening tool applying RSI & MACD filters and inverse volatility portfolio weighting with AI commentary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
